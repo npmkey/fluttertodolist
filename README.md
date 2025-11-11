@@ -1,4 +1,4 @@
-# mitchkoko
+# ToDo list App following mitchkoko's Tutorial
 
 A new Flutter project.
 
